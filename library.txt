@@ -1,0 +1,9 @@
+install bellow modules with Python PIP
+
+numpy
+PIL
+cv2-python
+xxhash
+hashlib
+tkinter
+
